@@ -2,6 +2,7 @@
 
 考研政治
 HTML文件
+
 <img width="2560" height="1408" alt="image" src="https://github.com/user-attachments/assets/ef4505f5-ba04-4b36-8b58-0eb9758e0103" />
 
 <img width="2560" height="1408" alt="image" src="https://github.com/user-attachments/assets/1a443653-41f6-4565-a264-e2cf4152ad3d" />
